@@ -1,0 +1,74 @@
+html,
+body {
+  padding:20px;
+  box-sizing: border-box;
+  font-family: 'Nanum Gothic', sans-serif;
+  overflow-wrap:break-word;
+  font-size: 15px;
+
+}
+body{
+  background: rgba(0,0,0, 0.1);
+
+}
+
+
+header{
+
+    font-family: 'Lobster';
+    font-size: 50px;
+    color: rgb(116, 62, 144);
+    box-sizing:border-box;
+    text-shadow: 2px 2px black;
+
+  }
+  .receipt{
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2), 0 5px 5px 0 rgba(0,0,0,0.19);
+  padding:2%;
+  margin: 0 auto;
+  width: 80%;
+  background: #FFF;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p{
+    color: rgba(0,0,0, 0.8);
+
+}
+
+.productsList{
+  border-bottom: 1px solid rgba(0,0,0, 0.4);
+  min-height: 50px;
+}
+
+.info{
+  display: block;
+  margin-left: 0;
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+
+}
+.products:nth-child(2n+1){
+  background:rgba(0,0,0, 0.05);
+}
+.products:nth-child(2n){
+  background:rgba(0,0,0, 0.02);
+}
+.products{
+border-bottom: 1px solid rgba(0,0,0, 0.25);
+}
+
+.tabletitle{
+  background:rgba(0,0,0, 0.25);
+}
+
+.item{
+  width: 11%;
+}

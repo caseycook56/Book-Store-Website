@@ -1,0 +1,11 @@
+ID	OID	Title	Description	Option	Price
+TNOTW	MMP	The Name of the Wind	Patrick Rothfuss	Mass Market Paperback	20
+TNOTW	TP	The Name of the Wind	Patrick Rothfuss	Trade Paperback	20
+TNOTW	HB	The Name of the Wind	Patrick Rothfuss	Hardback	20
+TNOTW	10A	The Name of the Wind	Patrick Rothfuss	10th Anniversary Edition	20
+TWOK	MMP	The Way of Kings	Brandon Sanderson	Mass Market Paperback	20
+TWOK	TP	The Way of Kings	Brandon Sanderson	Trade Paperback	20
+TWOK	HB	The Way of Kings	Brandon Sanderson	Hardback	20
+AGOT	MMP	A Game of Thrones	George RR Martin	Mass Market Paperback	20
+AGOT	TP	A Game of Thrones	George RR Martin	Trade Paperback	20
+AGOT	HB	A Game of Thrones	George RR Martin	Hardback	20	
